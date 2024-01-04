@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Moul";
+    src: url("/assets/fonts/Moul-Regular.ttf");
+    font-weight: 400;
+}
+canvas{
+    display: flex;
+    margin: auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
